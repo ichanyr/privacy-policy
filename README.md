@@ -34,13 +34,27 @@ Data yang kami kumpulkan digunakan untuk:
 
 Kami tidak menjual atau membagikan data pengguna kepada pihak ketiga untuk tujuan komersial.
 
-## 3. Fitur Registrasi dan Lamaran Calon Staff
+## 3. Data Wajah dan Foto Presensi Alternatif
+
+Aplikasi Staff Indonesia College menyediakan fitur presensi alternatif yang menggunakan kamera dan deteksi wajah. Fitur ini digunakan apabila pengguna melakukan presensi melalui metode alternatif selain pemindaian QR Code.
+
+Dalam fitur ini, aplikasi mendeteksi keberadaan wajah pengguna melalui kamera. Apabila wajah terdeteksi, aplikasi akan mengambil foto sebagai bukti presensi. Data yang dikumpulkan berupa foto presensi yang menampilkan wajah pengguna, waktu presensi, lokasi presensi, dan informasi presensi terkait.
+
+Foto presensi tersebut digunakan hanya untuk kebutuhan verifikasi kehadiran, administrasi internal, riwayat presensi, dan penampilan detail presensi di aplikasi. Foto dapat ditampilkan pada halaman detail presensi untuk menunjukkan bahwa pengguna melakukan presensi melalui metode presensi alternatif.
+
+Aplikasi tidak membuat template biometrik wajah, tidak melakukan identifikasi biometrik permanen, dan tidak menggunakan data wajah untuk pengenalan wajah di luar proses presensi alternatif.
+
+Foto presensi disimpan pada server/database Indonesia College sebagai bagian dari data riwayat presensi pengguna. Data wajah atau foto presensi tidak dijual dan tidak dibagikan kepada pihak ketiga untuk tujuan komersial. Akses terhadap data tersebut dibatasi hanya kepada pihak internal yang berwenang sesuai kebutuhan administrasi, keamanan, audit, atau pengelolaan presensi.
+
+Foto presensi disimpan selama akun pengguna masih aktif atau selama masih diperlukan untuk kebutuhan operasional, administrasi, pelaporan, keamanan, audit internal, atau kepatuhan terhadap ketentuan yang berlaku. Pengguna dapat menghubungi Indonesia College untuk meminta informasi lebih lanjut terkait data yang tersimpan atau mengajukan permintaan penghapusan akun sesuai ketentuan yang berlaku.
+
+## 4. Fitur Registrasi dan Lamaran Calon Staff
 
 Aplikasi Staff Indonesia College menyediakan fitur registrasi dan pengiriman form lamaran untuk calon staff. Melalui fitur ini, calon staff dapat mengisi data diri, informasi kontak, riwayat pendidikan, pengalaman, serta mengunggah dokumen pendukung yang diperlukan.
 
 Data yang dikirimkan melalui fitur ini hanya digunakan untuk kebutuhan administrasi dan proses rekrutmen internal Indonesia College. Data calon staff akan diproses secara terbatas oleh pihak yang berwenang sesuai kebutuhan seleksi dan pengelolaan lamaran.
 
-## 4. Fitur Hapus Akun
+## 5. Fitur Hapus Akun
 
 Aplikasi menyediakan fitur hapus akun bagi pengguna yang ingin mengajukan penghapusan akun.
 
@@ -50,7 +64,7 @@ Apabila pengguna melakukan login kembali sebelum masa 30 hari berakhir, proses p
 
 Setelah akun dihapus secara permanen, pengguna tidak dapat lagi mengakses akun tersebut. Data yang berkaitan dengan akun akan dihapus atau dinonaktifkan sesuai kebutuhan sistem, kecuali data tertentu yang masih diperlukan untuk kepentingan administrasi, keamanan, kepatuhan hukum, atau arsip internal yang sah.
 
-## 5. Layanan Pihak Ketiga
+## 6. Layanan Pihak Ketiga
 
 Aplikasi ini menggunakan layanan pihak ketiga untuk mendukung fungsi aplikasi, seperti:
 
@@ -60,26 +74,26 @@ Aplikasi ini menggunakan layanan pihak ketiga untuk mendukung fungsi aplikasi, s
 
 Layanan pihak ketiga tersebut memiliki kebijakan privasi masing-masing. Penggunaan layanan tersebut hanya dilakukan untuk mendukung operasional dan keamanan aplikasi.
 
-## 6. Keamanan Data
+## 7. Keamanan Data
 
 Kami berkomitmen untuk melindungi data pengguna. Kami menggunakan metode keamanan yang sesuai untuk mencegah akses tidak sah, penyalahgunaan data, perubahan data tanpa izin, atau kebocoran informasi.
 
 Meskipun demikian, pengguna juga bertanggung jawab untuk menjaga kerahasiaan akun, termasuk email, password, dan akses perangkat yang digunakan untuk login ke aplikasi.
 
-## 7. Penyimpanan Data
+## 8. Penyimpanan Data
 
 Data pengguna disimpan selama akun masih aktif atau selama masih diperlukan untuk kebutuhan operasional, administrasi, rekrutmen, pelaporan, keamanan, atau kepatuhan terhadap ketentuan yang berlaku.
 
 Untuk data calon staff, data lamaran dapat disimpan selama masih diperlukan dalam proses seleksi dan administrasi rekrutmen Indonesia College.
 
-## 8. Hak Pengguna
+## 9. Hak Pengguna
 
 Pengguna dapat menghubungi Indonesia College untuk meminta informasi lebih lanjut terkait data yang tersimpan, memperbarui data, atau mengajukan penghapusan akun sesuai ketentuan yang berlaku di aplikasi.
 
-## 9. Perubahan Kebijakan Privasi
+## 10. Perubahan Kebijakan Privasi
 
 Indonesia College dapat memperbarui Kebijakan Privasi ini sewaktu-waktu sesuai dengan perkembangan fitur, kebutuhan operasional, atau perubahan ketentuan yang berlaku. Perubahan akan diinformasikan melalui aplikasi atau media resmi lainnya apabila diperlukan.
 
-## 10. Kontak
+## 11. Kontak
 
 Jika pengguna memiliki pertanyaan terkait Kebijakan Privasi ini, pengguna dapat menghubungi pihak Indonesia College melalui kontak resmi yang tersedia pada aplikasi atau media resmi Indonesia College.
